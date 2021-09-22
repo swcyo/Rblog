@@ -1,5 +1,5 @@
 ---
-title: 怎么给我的这个主题的博客添加评论插件
+title: 怎么给Prose主题的博客添加评论插件
 author: 欧阳松
 date: '2021-09-04'
 slug: comment-plugin

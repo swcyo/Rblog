@@ -81,7 +81,7 @@ enableListSidebarTitles = true
 enableToc = true
 hideToc = false
 tocFolding = true
-tocPosition = "inner" # inner, outer
+tocPosition = "outer" # inner, outer
 enableTocSwitch = true
 itemsPerCategory = 5
 sidebarPosition = "right"
@@ -132,3 +132,9 @@ busuanziPagePV = true
 [[footerLinks]]
   name = "石河子大学医学院第一附属医院"
   link = "http://www.sdyfy.com.cn/"
+[[footerLinks]]
+  name = "我的百度学术"
+  link = "https://xueshu.baidu.com/scholarID/CN-BP74VAPJ"
+[[footerLinks]]
+  name = "我的ORCID"
+  link = "https://orcid.org/0000-0001-7962-2811"
