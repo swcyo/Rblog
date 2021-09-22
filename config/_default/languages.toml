@@ -1,0 +1,13 @@
+[zh]
+  title = "欧阳松的博客"
+  languageName = "简体中文"
+  weight = 1
+  languagedir = "ltr"
+  contentdir = "content/zh"
+
+[en]
+  title = "Song Ou-Yang"
+  languageName = "English"
+  weight = 2
+  languagedir = "ltr"
+  contentdir = "content/en"

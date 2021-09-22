@@ -1,0 +1,134 @@
+logoText = "Swcyo"
+logoType = "short" # long, short
+description = "Song Ou-Yang's site."
+custom_css = []
+custom_js = []
+useFaviconGenerator = true # https://www.favicon-generator.org/
+meta_image = ""
+themecolor = ""
+
+themeOptions = ["light", "dark", "hacker", "solarized", "kimbie"]
+notAllowedTypesInHome = ["contact", "talks", "about", "showcase", "publication", "presentation", "resume"]
+notAllowedTypesInHomeSidebar = ["about", "archive", "showcase", "publication", "presentation", "resume"]
+notAllowedTypesInArchive = ["about", "talks", "showcase", "publication", "presentation", "resume"]
+notAllowedTypesInHomeFeed = ["about", "archive", "contact", "talks", "showcase", "publication", "presentation", "resume", "gallery"]
+
+viewportSize = "normal" # widest, wider, wide, normal, narrow
+enableUiAnimation = true
+hideSingleContentsWhenJSDisabled = false
+enablePinnedPosts = true
+minItemsToShowInTagCloud = 1 # Minimum items to show in tag cloud
+
+# appbar
+enableAppbarSearchIcon = false
+enableAppbarLangIcon = false
+
+# header
+homeHeaderType = "text" # text, img, slide, typewriter
+hideHomeHeaderWhenMobile = false
+
+# menu
+showMobileMenuTerms = ["tags", "categories", "series"]
+
+# search
+enableSearch = true
+enableSearchHighlight = true
+searchResultPosition = "main" # side, main
+searchContent = true # include content to search index
+searchDistance = 100 # fuse option
+searchThreshold = 0.4 # 0.0: exact match, 1.0: any match
+
+# body
+enableBreadcrumb = true
+enableGoToTop = true
+enableWhoami = true
+summaryShape = "classic" # card, classic, compact
+archiveGroupByDate = "2006" # "2006-01": group by month, "2006": group by year
+archivePaginate = 13
+paginateWindow = 1
+talksPaginate = 5
+talksGroupByDate = "2006"
+pubPaginate = 20
+writtenTimeIcon = "📅"
+modifiedTimeIcon = "📝"
+readingTimeIcon = "☕"
+authorIcon = "✍️"
+pagePvIcon = "👀"
+pinIcon = "📌"
+tagIcon = "🏷️"
+publicationIcon = "📚"
+typeIcon = "🎯"
+
+# whoami
+myname = "欧阳松"
+email = "ouyangsong@shzu.edu.cn"
+whoami = "主治医师、讲师"
+bioImageUrl = ""
+useGravatar = false
+location = "新疆, 石河子"
+organization = "石河子大学医学院第一附属医院"
+link = "https://swcyo.rbind.io/"
+
+# sidebar
+enableBio = true
+enableBioImage = true
+enableSidebar = true
+enableSidebarTags = true
+enableSidebarSeries = true
+enableSidebarCategories = true
+enableHomeSidebarTitles = true
+enableListSidebarTitles = true
+enableToc = true
+hideToc = false
+tocFolding = true
+tocPosition = "inner" # inner, outer
+enableTocSwitch = true
+itemsPerCategory = 5
+sidebarPosition = "right"
+tocLevels = ["h2", "h3", "h4"]
+enableSidebarPostsByOrder = false
+
+# footer
+showPoweredBy = true
+showFeedLinks = true
+showSocialLinks = true
+enableLangChange = true
+enableThemeChange = true
+
+# service
+googleTagManager = "" # GTM-XXXXXX
+baiduAnalytics = "af43714f0d2bda327dfa276339b9db25"
+enableBusuanzi = true
+busuanziSiteUV = true
+busuanziSitePV = true
+busuanziPagePV = true
+
+
+[socialOptions]
+  email = "mailto://ouyangsong@shzu.edu.cn"
+  github = "https://github.com/swcyo/Rblog"
+  weibo = "https://weibo.com/swcyoyond"
+  jianshu = "https://www.jianshu.com/u/c23f6285abcc"
+  zhihu = "https://www.zhihu.com/people/swcyo"
+  google-scholar = "https://scholar.google.com/citations?hl=zh-CN&pli=1&user=eTN286IAAAAJ"
+
+[donationOptions]
+  enable = false
+  alipay = "" 
+  wechat = ""
+  paypal = ""
+  patreon = ""
+
+# possible share name: ["facebook","twitter", "reddit", "linkedin", "tumblr", "weibo", "douban", "line", "pocket", "feedly", "hatena", "pinterest", "delicious", "google"]
+[[share]]
+  name = "weibo"
+  username = "swcyoyond"
+[[share]]
+  name = "twitter"
+
+[[footerLinks]]
+  name = "石河子大学"
+  link = "http://www.shzu.edu.cn/"
+[[footerLinks]]
+  name = "石河子大学医学院第一附属医院"
+  link = "http://www.sdyfy.com.cn/"
