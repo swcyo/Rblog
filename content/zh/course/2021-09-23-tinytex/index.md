@@ -12,7 +12,7 @@ enableToc: yes
 
 **tinytex**是[**yihui**](https://github.com/yihui)开发出来的一款简易Latex工具，不需要安装额外的Latex和包，主要用于rmarkdown的后期渲染效果，比如说你用**bookdown**写了一本电子书，直接knitr后是一本Gitbook的电子书，但是如果你想渲染成pdf或word，就需要使用到Latex，安装**bookdown**是顺带就安装了**tinytex**这个R包，但是并不是说你就已经安装了Tiny Tex了，也就是说**tinytex** ≠ *TinyTeX*，**tinytex**只是个R包，你还需要安装*TinyTeX*框架。
 
-可是就国内这个限制而言，一般很难直接就安装成功，即使有国内镜像，也会经常掉线，所以我们可以选择折中的办法进行本地安装，所以第一步就需要下载文件，然后本地安装。
+可是就国内这个限制而言，一般很难直接就安装成功，即使有国内镜像，也会经常掉线，所以我们可以选择折中的办法进行本地安装，即第一步就下载需要的文件，然后进行本地安装。
 
 ## 安装**tinytex** R包
 
@@ -29,7 +29,7 @@ tinytex::install_tinytex()
 ## trying URL 'https://yihui.org/tinytex/TinyTeX-1.zip'
 ```
 
-然后一般情况下这种情况经常掉线，或者网速很慢，我们从下面的解释可以看出其实是下载t'https://yihui.org/tinytex/TinyTeX-1.zip'这个压缩包，所以我们可以下载好压缩包，然后本地安装。
+一般这种情况下这种情况经常掉线，或者网速很慢，我们从下面的解释可以看出其实是下载https://yihui.org/tinytex/TinyTeX-1.zip 这个压缩包，所以我们可以先下载好压缩包，然后本地安装。
 
 ### 本地安装办法
 
