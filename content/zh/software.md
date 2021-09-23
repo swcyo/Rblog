@@ -1,7 +1,7 @@
 ---
 title: 常用软件
 author: 欧阳松
-date: 2021-11-11
+date: 
 slug: software
 ---
 

@@ -24,12 +24,13 @@ header:
   paddingY: 0
   spaceBetweenTitleSubtitle: 16
   subtitle:
+  - 主治医师，讲师，医学博士
   - 石河子大学医学院第一附属医院泌尿外科 & 生殖医学科
   subtitleColor: steelblue
   subtitleCursive: false
   subtitleFontSize: 26
   title:
-  - 欧阳松 (SONG OU-YANG)
+  - 欧阳松 (Dr. Song Ou-Yang)
   titleColor: brown
   titleFontSize: 44
   titleShadow: false

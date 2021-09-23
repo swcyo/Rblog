@@ -6,7 +6,7 @@ defaultContentLanguageInSubdir: yes
 hasCJKLanguage: yes
 summaryLength: 70
 buildFuture: yes
-copyright: '&copy;{2021}, All Rights Reserved'
+copyright: '&copy;Song Ou-Yang, since 2021'
 timeout: 10000
 enableEmoji: yes
 paginate: 13

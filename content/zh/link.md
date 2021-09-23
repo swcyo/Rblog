@@ -1,13 +1,13 @@
 ---
 title: 友情链接
-author: 
+author: 欧阳松
 slug: link
-categories: 
-tags: 
-date: 
+date: "2021-08-28"
 ---
 
+
 ## 机构链接
+
 
 | 友情链接                           | 网址                        |
 |------------------------------------|-----------------------------|
@@ -16,6 +16,7 @@ date:
 | 华中科技大学                       | <https://www.hust.edu.cn/>  |
 | 华中科技大学同济医学院附属同济医院 | <https://www.tjh.com.cn/>   |
 | 长沙医学院                         | <https://www.csmu.edu.cn/>  |
+
 
 ## 个人博客友情链接
 
@@ -38,9 +39,8 @@ date:
 
 ## 生信公众号推荐
 
-|                 |                    |                   |                 |
-|-----------------|--------------------|-------------------|-----------------|
 | 微信公众号      | 微信号             | 微信公众号        | 微信号          |
+|-----------------|--------------------|-------------------|-----------------|
 | R语言统计与绘图 | csuduanxm          | 生信星球          | bioinfoplanet   |
 | Yulab-SMU       | biobabble          | 生信媛            | bio_sxy         |
 | 艾米的科研宝库  | gh_9471b96c211c    | 生信助手          | SCIPhD          |
@@ -58,6 +58,6 @@ date:
 
 最后链接一个万花筒，<http://www.xiaolvji.com/u/bioinfoclub>
 
-<iframe src="http://www.xiaolvji.com/u/bioinfoclub" width="900" height="800" frameborder="0" style="border:0">
+<iframe src="http://www.xiaolvji.com/u/bioinfoclub" width="800" height="600" frameborder="0" style="border:0">
 
 </iframe>

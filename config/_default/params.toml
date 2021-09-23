@@ -1,4 +1,4 @@
-logoText = "Swcyo"
+logoText = "Song Ou-Yang"
 logoType = "short" # long, short
 description = "Song Ou-Yang's site."
 custom_css = []
@@ -62,7 +62,7 @@ typeIcon = "🎯"
 # whoami
 myname = "欧阳松"
 email = "ouyangsong@shzu.edu.cn"
-whoami = "主治医师、讲师"
+whoami = "主治医师、讲师、医学博士"
 bioImageUrl = ""
 useGravatar = false
 location = "新疆, 石河子"
