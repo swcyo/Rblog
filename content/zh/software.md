@@ -19,6 +19,7 @@ slug: software
 
    统计学软件是最常用的，我目前主要专注与**R**语言的应用，原因无他，免费-强大！！！
 
+{{< boxmd >}}
 -   [R](https://cran.r-project.org/) （包罗万象的统计软件，开源免费）
 
 -   [RStudio](https://rstudio.com/products/rstudio/download/) （R的可视化编辑器，需先安装R）
@@ -33,14 +34,16 @@ slug: software
 
     -   Windows版 （链接: <https://pan.baidu.com/s/1bPLvDh9Ei80MKSuYFF8DDg> 密码: m3v9）
 
-    -   [Mac版](https://mac.orsoon.com/Mac/167958.html)（暂时收费）
+    -   [Mac版](https://mac.orsoon.com/Mac/167958.html)（可私信我）
 
 -   [Origin](https://www.origin.com/usa/en-us/store/download) 2019b （教育邮箱注册可以免费3个月）
 
 -   [jamovi](https://www.jamovi.org/)（一款开源免费的统计学软件，以SPSS的界面，嵌入R语言的统计）
+{{< /boxmd >}}
 
 ## **科研实验软件**
 
+{{< boxmd >}}
 -   [ImageJ](https://imagej.nih.gov/ij/download.html)（开源免费，用于WB的灰度值测量、细胞计数、荧光融合、拼接图片等）
 
 -   [Fiji](https://imagej.net/downloads)（ImageJ的升级版，包含许多科研插件）
@@ -50,9 +53,11 @@ slug: software
     -   Windows版
 
     -   Mac版（链接: <https://pan.baidu.com/s/1n1ZZ33SKj57NeBiCtzUXYw> 密码: 61sh）
+{{< /boxmd >}}
 
 ## **文献管理管理**
 
+{{< boxmd >}}
 -   Endnote （最常用的文献管理软件，对中文支持较差，无中文数据库）
 
 -   NoteExpress （推荐，国产文献管理软件，支持中英文数据库，大学IP免费使用）
@@ -62,9 +67,11 @@ slug: software
 -   Paper （Mac系统可用的文献管理软件，智能化）
 
 -   Zotero （最全面的文献管理软件，开源免费）
+{{< /boxmd >}}
 
 ## **图像处理软件**
 
+{{< boxmd >}}
 -   Adobe Photshop （PS，不解释，但是只能导出非矢量图）
 
     -   Windows (链接: <https://pan.baidu.com/s/1ud_RrAPZ-NWxyFHU4LGU0g> 密码: gmg8)
@@ -76,9 +83,11 @@ slug: software
     -   Windows(链接: <https://pan.baidu.com/s/1uRhGSBJkkfarmmoJiV3qlQ> 密码: 2rnf)
 
     -   Mac (链接: <https://pan.baidu.com/s/1JG-adBaSEM4lA1LjIBq6MQ> 密码: ih40)
+{{< /boxmd >}}
 
 ## **文档管理软件**
 
+{{< boxmd >}}
 -   Adobe Acrobat （可以阅读PDF，可以导出多种文献格式，还可以处理图片）
 
     -   Windows(链接: 链接: <https://pan.baidu.com/s/1Loz-15lJt7BLT4gt74bRfg> 密码: dj3w)
@@ -88,9 +97,12 @@ slug: software
 -   WPS （国产文档处理软件，功能强大）
 
 -   Microsoft Office （盗版无限的软件）
+{{< /boxmd >}}
 
 ## **流程图软件**
 
+{{< boxmd >}}
 -   Visio （链接: <https://pan.baidu.com/s/190hVDpF23xtfi2IigS37mA> 密码: m2bj）
 
 -   亿图 （链接: <https://pan.baidu.com/s/1DsRer81eTcAe-T-fJ-g3mg> 密码: l301）
+{{< /boxmd >}}

@@ -15,7 +15,8 @@ date: "2021-08-28"
 | 石河子大学医学院第一附属语言       | <https://www.sdyfy.com.cn/> |
 | 华中科技大学                       | <https://www.hust.edu.cn/>  |
 | 华中科技大学同济医学院附属同济医院 | <https://www.tjh.com.cn/>   |
-| 长沙医学院                         | <https://www.csmu.edu.cn/>  |
+| 新疆生产建设兵团                   | <http://xjbt.gov.cn/>       |
+
 
 
 ## 个人博客友情链接
@@ -32,7 +33,7 @@ date: "2021-08-28"
 
 | 友情链接                   | 网址                                     |
 |----------------------------|------------------------------------------|
-| **小洁忘了怎么分身的简书** | <https://www.jianshu.com/u/c93ac360691a> |
+| 小洁忘了怎么分身的简书     | <https://www.jianshu.com/u/c93ac360691a> |
 | YuLab-SMU                  | <https://yulab-smu.top/>                 |
 | 统计之都                   | <https://cosx.org/>                      |
 | 生信技能树                 | <http://www.biotrainee.com/>             |
