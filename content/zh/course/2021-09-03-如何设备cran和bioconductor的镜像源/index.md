@@ -14,8 +14,8 @@ tags:
 
 安装的过程中，会提示安装依赖的包，基本都是无脑安装，但是安装前还是建议先设置一下镜像，CRAN的可以在RStudio直接设置，而BiocManager的话，建议先输入以下代码选择一个镜像。
 
-    options(repos = r, BioC_mirror="https://mirrors.tuna.tsinghua.edu.cn/bioconductor")
-    # options(repos = r, BioC_mirror="https://mirrors.nju.edu.cn/bioconductor/") #南京镜像
+    options(BioC_mirror="https://mirrors.tuna.tsinghua.edu.cn/bioconductor")
+    # options(BioC_mirror="https://mirrors.nju.edu.cn/bioconductor/") #南京镜像
 
 或者下面的代码一次性设置两个
 
