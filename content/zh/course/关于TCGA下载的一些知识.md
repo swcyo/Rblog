@@ -1,6 +1,6 @@
 ---
-title: 关于TCGA的一些知识
-Slug: aboutTCGA
+title: 关于TCGA数据下载的一些知识
+Slug: aboutTCGAdownload
 Date: 2021-09-29
 ---
 
