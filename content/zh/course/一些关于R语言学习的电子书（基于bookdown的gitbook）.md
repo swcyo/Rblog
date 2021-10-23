@@ -43,6 +43,7 @@ Gitbook是一种基于html的电子书，也就是说这种书需要用网页打
 
 | 书籍名称                                                                               | 地址                                                  |
 |----------------------------------------------------------------------------------------|-------------------------------------------------------|
+| [生信宝典的R教程](http://ehbio.com/Bioinfo_R_course/index.html)                        | <https://github.com/Tong-Chen/Bioinfo_course_R>       |
 | 精通机器学习：基于R（第2版）                                                           | <https://www.ituring.com.cn/book/1989>                |
 | [Cookbook for R 中文翻译](https://openbiox.github.io/Cookbook-for-R-Chinese/)          | <https://github.com/openbiox/Cookbook-for-R-Chinese>  |
 | [数据科学中的R语言](https://bookdown.org/wangminjie/R4DS/)                             | <https://github.com/perlatex/R_for_Data_Science>      |
